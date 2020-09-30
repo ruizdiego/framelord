@@ -1,0 +1,7 @@
+{
+    "name": "com.dedalord.framelord",
+    "displayName": "FrameLord",
+    "version": "1.0.0",
+    "unity": "2019.2",
+    "description": "Dedalord Unity Extension Framework"
+}
