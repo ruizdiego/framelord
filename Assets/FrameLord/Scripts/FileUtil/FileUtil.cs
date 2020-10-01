@@ -3,12 +3,15 @@ using System;
 
 namespace FrameLord
 {
+	/// <summary>
+	/// File utility class
+	/// </summary>
 	public static class FileUtil
 	{
 		/// <summary>
 		/// Returns the file path of the specified file
 		/// </summary>
-		static public string GetFilePath(string strFilename)
+		public static string GetFilePath(string strFilename)
 		{
 			int idx = strFilename.LastIndexOf("/", StringComparison.InvariantCulture);
 
@@ -25,7 +28,7 @@ namespace FrameLord
 		/// <summary>
 		/// Returns just the filename of a fill specified file
 		/// </summary>
-		static public string GetFileName(string strFilename)
+		public static string GetFileName(string strFilename)
 		{
 			int idx = strFilename.LastIndexOf("/", StringComparison.InvariantCulture);
 
@@ -42,7 +45,7 @@ namespace FrameLord
 		/// <summary>
 		/// Extracts from the file name, the file extension 
 		/// </summary>
-		static public string ExtractFileExt(string strFilename)
+		public static string ExtractFileExt(string strFilename)
 		{
 			int idx = strFilename.LastIndexOf(".", StringComparison.InvariantCulture);
 
@@ -55,7 +58,7 @@ namespace FrameLord
 		/// <summary>
 		/// Changes the file extension
 		/// </summary>
-		static public string ChangeFileExt(string strFilename, string strExt)
+		public static string ChangeFileExt(string strFilename, string strExt)
 		{
 			int idx = strFilename.LastIndexOf('.');
 
@@ -68,7 +71,7 @@ namespace FrameLord
 		/// <summary>
 		/// Returns the file extension
 		/// </summary>
-		static public string GetFileExt(string strFilename)
+		public static string GetFileExt(string strFilename)
 		{
 			int idx = strFilename.LastIndexOf('.');
 

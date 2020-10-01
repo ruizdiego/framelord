@@ -1,9 +1,12 @@
 ﻿namespace FrameLord
 {
+    /// <summary>
+    /// Encrypt modes
+    /// </summary>
     enum EncryptionMode
     {
-        PLAIN = 22,
-        SIMPLE = 44,
-        RIJNDAE = 66,
+        Plain = 22,
+        Simple = 44,
+        Rijndae = 66,
     }
 }

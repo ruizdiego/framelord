@@ -15,10 +15,6 @@
               <e p="IChecksum.cs" t="Include" />
               <e p="ZipUnZipUtil.cs" t="Include" />
             </e>
-            <e p="Core" t="Include">
-              <e p="MonoBehaviorSingleton.cs" t="Include" />
-              <e p="Singleton.cs" t="Include" />
-            </e>
             <e p="Encryption" t="Include">
               <e p="EncryptionMode.cs" t="Include" />
               <e p="RijndaelEncryptUtil.cs" t="Include" />
@@ -68,6 +64,10 @@
               <e p="Pool.cs" t="Include" />
               <e p="PoolItem.cs" t="Include" />
               <e p="PoolManager.cs" t="Include" />
+            </e>
+            <e p="Singleton" t="Include">
+              <e p="MonoBehaviorSingleton.cs" t="Include" />
+              <e p="Singleton.cs" t="Include" />
             </e>
             <e p="Sound" t="Include">
               <e p="FadeAudioSource.cs" t="Include" />

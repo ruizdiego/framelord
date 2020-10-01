@@ -11,18 +11,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/String/StringUtil.cs" />
-        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Compression/CRC32.cs" />
-        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Compression/IChecksum.cs" />
-        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Compression/ZipUnZipUtil.cs" />
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Core/MonoBehaviorSingleton.cs" />
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Core/Singleton.cs" />
-        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Encryption/EncryptionMode.cs" />
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Encryption/RijndaelEncryptUtil.cs" />
-        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Encryption/SimpleEncryptUtil.cs" />
-        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/EventDispatcher/GameEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/EventDispatcher/GameEventDispatcher.cs" />
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/EventDispatcher/OnGameEvent.cs" />
-        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/FSM/Connections/ConTimer.cs" />
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/FSM/State.cs" />
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/FSM/StateConnection.cs" />
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/FSM/StateManager.cs" />
@@ -39,6 +32,14 @@
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Sound/SoundManager.cs" />
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Storage/LocalStorage.cs" />
         <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/FSM/Connections/ConKeyPress.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/FSM/Connections/ConTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Color/ColorEx.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Compression/CRC32.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Compression/IChecksum.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Compression/ZipUnZipUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Encryption/EncryptionMode.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Encryption/SimpleEncryptUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/EventDispatcher/GameEvent.cs" />
       </list>
     </option>
   </component>
@@ -80,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601556040862</updated>
-      <workItem from="1601556048690" duration="298000" />
+      <workItem from="1601556048690" duration="863000" />
     </task>
     <servers />
   </component>
