@@ -3,6 +3,9 @@ using UnityEngine;
 
 namespace FrameLord
 {
+	/// <summary>
+	/// Color utility class
+	/// </summary>
 	public static class ColorEx
 	{
 		/// <summary>

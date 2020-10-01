@@ -2,7 +2,10 @@
 
 namespace FrameLord
 {
-// Game Event base class
+
+	/// <summary>
+	/// Game Event base class
+	/// </summary>
 	public class GameEvent
 	{
 		// Event name

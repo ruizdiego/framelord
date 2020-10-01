@@ -1,6 +1,9 @@
 ﻿
 namespace FrameLord
 {
+    /// <summary>
+    /// Simple encrypt class
+    /// </summary>
     public static class SimpleEncryptUtil
     {
         const byte key = 200;

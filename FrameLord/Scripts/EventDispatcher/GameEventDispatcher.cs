@@ -6,7 +6,10 @@ using UnityEngine;
 
 namespace FrameLord
 {
-// Game Event dispatcher
+
+	/// <summary>
+	/// Game Event dispatcher
+	/// </summary>
 	public class GameEventDispatcher : Singleton<GameEventDispatcher>
 	{
 		// Event dictionary

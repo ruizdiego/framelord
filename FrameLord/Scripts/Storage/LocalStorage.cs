@@ -18,14 +18,14 @@ namespace FrameLord
 		/// </summary>
 		public static string GetStringSecure(string key, string defVal = null)
 		{
-			var encryptMode = (EncryptionMode) PlayerPrefs.GetInt(EncryptionModeKey, (int) EncryptionMode.SIMPLE);
+			var encryptMode = (EncryptionMode) PlayerPrefs.GetInt(EncryptionModeKey, (int) EncryptionMode.Simple);
 
 			switch (encryptMode)
 			{
-				case EncryptionMode.PLAIN:
+				case EncryptionMode.Plain:
 					return GetString(key, defVal);
 
-				case EncryptionMode.SIMPLE:
+				case EncryptionMode.Simple:
 					if (PlayerPrefs.HasKey(key))
 					{
 						string cipherStr = PlayerPrefs.GetString(key);
@@ -36,7 +36,7 @@ namespace FrameLord
 						return defVal;
 					}
 
-				case EncryptionMode.RIJNDAE:
+				case EncryptionMode.Rijndae:
 					if (PlayerPrefs.HasKey(key))
 					{
 						string cipherStr = PlayerPrefs.GetString(key);
@@ -74,23 +74,23 @@ namespace FrameLord
 		/// </summary>
 		public static void SetStringSecure(string key, string val)
 		{
-			var encryptMode = EncryptionMode.SIMPLE;
-			PlayerPrefs.SetInt(EncryptionModeKey, (int) EncryptionMode.SIMPLE);
+			var encryptMode = EncryptionMode.Simple;
+			PlayerPrefs.SetInt(EncryptionModeKey, (int) EncryptionMode.Simple);
 
 			string cipherStr;
 
 			switch (encryptMode)
 			{
-				case EncryptionMode.PLAIN:
+				case EncryptionMode.Plain:
 					SetString(key, val);
 					break;
 
-				case EncryptionMode.SIMPLE:
+				case EncryptionMode.Simple:
 					cipherStr = SimpleEncryptUtil.EncryptString(val);
 					PlayerPrefs.SetString(key, cipherStr);
 					break;
 
-				case EncryptionMode.RIJNDAE:
+				case EncryptionMode.Rijndae:
 					cipherStr = RijndaelEncryptUtil.EncryptString(val);
 					PlayerPrefs.SetString(key, cipherStr);
 					break;
