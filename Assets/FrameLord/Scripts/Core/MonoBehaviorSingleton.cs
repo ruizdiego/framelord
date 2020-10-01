@@ -3,7 +3,7 @@
 // Unity Framework
 using UnityEngine;
 
-namespace FrameLord.Core
+namespace FrameLord
 {
 	public class MonoBehaviorSingleton<T> : MonoBehaviour where T : MonoBehaviorSingleton<T>
 	{

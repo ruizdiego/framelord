@@ -1,9 +1,9 @@
 ﻿// Unity Framework
 using UnityEngine;
 
-namespace FrameLord.FSM
+namespace FrameLord
 {
-    public class ConTimer : FrameLord.FSM.StateConnection
+    public class ConTimer : FrameLord.StateConnection
     {
         public float time;
 

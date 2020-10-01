@@ -1,4 +1,4 @@
-﻿namespace FrameLord.Sound
+﻿namespace FrameLord
 {
 	public delegate void SoundManagerCallback();
 }

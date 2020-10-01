@@ -1,8 +1,5 @@
 ﻿
-// FrameLord
-using FrameLord.String;
-
-namespace FrameLord.Encryption
+namespace FrameLord
 {
     public static class SimpleEncryptUtil
     {

@@ -1,12 +1,12 @@
-﻿using System.Collections;
+﻿// .NET Framework
 using System.Collections.Generic;
-using UnityEngine;
 
-// FrameLord
-using FrameLord.Core;
+
+// Unity Framework
+using UnityEngine;
 using UnityEngine.Audio;
 
-namespace FrameLord.Sound
+namespace FrameLord
 {
     public class SoundManager : MonoBehaviorSingleton<SoundManager>
     {

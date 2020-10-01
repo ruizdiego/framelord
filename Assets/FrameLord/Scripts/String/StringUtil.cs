@@ -8,7 +8,7 @@ using System.IO;
 using UnityEngine;
 
 
-namespace FrameLord.String
+namespace FrameLord
 {
 	/// <summary>
 	/// A collection of helpers to manage strings.

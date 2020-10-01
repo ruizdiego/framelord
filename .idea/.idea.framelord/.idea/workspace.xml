@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1905b747-e33f-4d46-afd4-f95ad13932cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/String/StringUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Compression/CRC32.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Compression/IChecksum.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Compression/ZipUnZipUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Core/MonoBehaviorSingleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Core/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Encryption/EncryptionMode.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Encryption/RijndaelEncryptUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Encryption/SimpleEncryptUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/EventDispatcher/GameEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/EventDispatcher/GameEventDispatcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/EventDispatcher/OnGameEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/FSM/Connections/ConTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/FSM/State.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/FSM/StateConnection.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/FSM/StateManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Input/Gamepad.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Pool/Pool.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Pool/PoolItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Sound/FadeAudioSource.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Sound/SoundManagerCallback.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Sound/SoundManagerClip.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Sound/SoundManagerExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Storage/LocalStorageTrackedKeys.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/UI/Blink.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Pool/PoolManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Sound/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/Storage/LocalStorage.cs" />
+        <option value="$PROJECT_DIR$/Assets/FrameLord/Scripts/FSM/Connections/ConKeyPress.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iHEItLwPjmEBYN6ZANIZCsCBXQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1905b747-e33f-4d46-afd4-f95ad13932cf" name="Default Changelist" comment="" />
+      <created>1601556040862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601556040862</updated>
+      <workItem from="1601556048690" duration="298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

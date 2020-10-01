@@ -1,7 +1,7 @@
 ﻿// Unity Framework
 using UnityEngine;
 
-namespace FrameLord.Pool
+namespace FrameLord
 {
     public class PoolItem : MonoBehaviour
     {

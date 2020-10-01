@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace FrameLord.FSM
+namespace FrameLord
 {
     public class StateManager : MonoBehaviour
     {

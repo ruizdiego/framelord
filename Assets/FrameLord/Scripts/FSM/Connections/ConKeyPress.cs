@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace FrameLord.FSM
+namespace FrameLord
 {
-    public class ConKeyPress : FrameLord.FSM.StateConnection
+    public class ConKeyPress : FrameLord.StateConnection
     {
         public KeyCode keyToPress;
         

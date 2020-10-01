@@ -62,7 +62,7 @@ using UnityEngine;
 	Left Stick Button: Axis 1 (X) Axis 2 (Y) 
 	Right Stick Button: Axis 3 (X) Axis 4 (Y)
 ------------------------------------------------------------------------------------------ */
-namespace FrameLord.Input
+namespace FrameLord
 {
 	public static class GamePad
 	{

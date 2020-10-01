@@ -4,7 +4,7 @@ using System.Collections.Generic;
 // Unity Framework
 using UnityEngine;
 
-namespace FrameLord.Pool
+namespace FrameLord
 {
     public class Pool : MonoBehaviour
     {

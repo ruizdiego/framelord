@@ -1,6 +1,6 @@
 
 
-namespace FrameLord.EventDispatcher
+namespace FrameLord
 {
 // Game Event base class
 	public class GameEvent

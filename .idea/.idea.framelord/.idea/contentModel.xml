@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_framelord.193226249.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="framelord" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Color" t="Include">
+              <e p="ColorEx.cs" t="Include" />
+            </e>
+            <e p="Compression" t="Include">
+              <e p="CRC32.cs" t="Include" />
+              <e p="IChecksum.cs" t="Include" />
+              <e p="ZipUnZipUtil.cs" t="Include" />
+            </e>
+            <e p="Core" t="Include">
+              <e p="MonoBehaviorSingleton.cs" t="Include" />
+              <e p="Singleton.cs" t="Include" />
+            </e>
+            <e p="Encryption" t="Include">
+              <e p="EncryptionMode.cs" t="Include" />
+              <e p="RijndaelEncryptUtil.cs" t="Include" />
+              <e p="SimpleEncryptUtil.cs" t="Include" />
+            </e>
+            <e p="EventDispatcher" t="Include">
+              <e p="GameEvent.cs" t="Include" />
+              <e p="GameEventDispatcher.cs" t="Include" />
+              <e p="OnGameEvent.cs" t="Include" />
+            </e>
+            <e p="FileUtil" t="Include">
+              <e p="FileUtil.cs" t="Include" />
+            </e>
+            <e p="FSM" t="Include">
+              <e p="Connections" t="Include">
+                <e p="ConKeyPress.cs" t="Include" />
+                <e p="ConTimer.cs" t="Include" />
+              </e>
+              <e p="State.cs" t="Include" />
+              <e p="StateConnection.cs" t="Include" />
+              <e p="StateManager.cs" t="Include" />
+            </e>
+            <e p="Hasher" t="Include">
+              <e p="Hasher.cs" t="Include" />
+            </e>
+            <e p="Input" t="Include">
+              <e p="Gamepad.cs" t="Include" />
+            </e>
+            <e p="Json" t="Include">
+              <e p="MiniJSONParser.cs" t="Include" />
+              <e p="MiniJSONUtils.cs" t="Include" />
+            </e>
+            <e p="Math" t="Include">
+              <e p="AngleUtil.cs" t="Include" />
+              <e p="IntVector2.cs" t="Include" />
+              <e p="IntVector3.cs" t="Include" />
+              <e p="LowFrequencyRandom.cs" t="Include" />
+              <e p="MathUtils.cs" t="Include" />
+              <e p="SmoothFloat.cs" t="Include" />
+              <e p="SmoothQuaternion.cs" t="Include" />
+              <e p="SmoothVector3.cs" t="Include" />
+              <e p="Spline.cs" t="Include" />
+              <e p="Vector2Ex.cs" t="Include" />
+              <e p="Vector3Ex.cs" t="Include" />
+            </e>
+            <e p="Pool" t="Include">
+              <e p="Pool.cs" t="Include" />
+              <e p="PoolItem.cs" t="Include" />
+              <e p="PoolManager.cs" t="Include" />
+            </e>
+            <e p="Sound" t="Include">
+              <e p="FadeAudioSource.cs" t="Include" />
+              <e p="SoundManager.cs" t="Include" />
+              <e p="SoundManagerCallback.cs" t="Include" />
+              <e p="SoundManagerClip.cs" t="Include" />
+              <e p="SoundManagerExtension.cs" t="Include" />
+            </e>
+            <e p="Storage" t="Include">
+              <e p="LocalStorage.cs" t="Include" />
+              <e p="LocalStorageTrackedKeys.cs" t="Include" />
+            </e>
+            <e p="String" t="Include">
+              <e p="StringUtil.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="Blink.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="FrameLord.asmdef" t="Include" />
+      </e>
+      <e p="FrameLord.csproj" t="IncludeRecursive" />
+      <e p="framelord.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
