@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace FrameLord.Core
+namespace FrameLord
 {
 	public class Singleton<T> where T : Singleton<T>, new()
 	{

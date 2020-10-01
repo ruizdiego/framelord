@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace FrameLord.Sound
+namespace FrameLord
 {
     public class SoundManagerExtension : MonoBehaviour
     {

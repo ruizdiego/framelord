@@ -3,7 +3,7 @@
 using UnityEngine;
 using UnityEngine.Audio;
 
-namespace FrameLord.Sound
+namespace FrameLord
 {
     [ExecuteInEditMode]
     public class SoundManagerClip : MonoBehaviour

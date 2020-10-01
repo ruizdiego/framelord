@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 using System.Security.Cryptography;
 
-namespace FrameLord.Encryption
+namespace FrameLord
 {
     public class RijndaelEncryptUtil
     {

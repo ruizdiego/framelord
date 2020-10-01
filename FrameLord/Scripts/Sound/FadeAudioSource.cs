@@ -5,7 +5,7 @@ using System.Collections;
 // Unity Framework
 using UnityEngine;
 
-namespace FrameLord.Sound
+namespace FrameLord
 {
     public class FadeAudioSource
     {

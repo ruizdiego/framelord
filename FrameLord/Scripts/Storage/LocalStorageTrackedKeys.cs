@@ -1,7 +1,7 @@
 ﻿// Mono Framework
 using System.Collections.Generic;
 
-namespace FrameLord.Storage
+namespace FrameLord
 {
 	[System.Serializable]
 	public class LocalStorageTrackedKeys

@@ -1,5 +1,5 @@
-﻿namespace FrameLord.EventDispatcher
+﻿namespace FrameLord
 {
-// Game event
+    // Game event
     public delegate void OnGameEvent(System.Object sender, GameEvent e);
 }

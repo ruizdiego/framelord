@@ -1,4 +1,4 @@
-﻿namespace FrameLord.Encryption
+﻿namespace FrameLord
 {
     enum EncryptionMode
     {

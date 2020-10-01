@@ -4,10 +4,7 @@ using System.Collections.Generic;
 // Unity Framework
 using UnityEngine;
 
-// FrameLord
-using FrameLord.Core;
-
-namespace FrameLord.Pool
+namespace FrameLord
 {
     public class PoolManager : MonoBehaviorSingleton<PoolManager>
     {

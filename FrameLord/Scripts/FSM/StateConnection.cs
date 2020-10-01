@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace FrameLord.FSM
+namespace FrameLord
 {
     public class StateConnection : MonoBehaviour
     {

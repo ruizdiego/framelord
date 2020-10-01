@@ -7,12 +7,7 @@ using System.Security.Cryptography;
 // Unity Framework
 using UnityEngine;
 
-// FrameLord
-using FrameLord.Core;
-using FrameLord.Encryption;
-using FrameLord.String;
-
-namespace FrameLord.Storage
+namespace FrameLord
 {
 	public static class LocalStorage
 	{
